@@ -22,6 +22,10 @@ lxml>=4.6.0
 yfinance>=0.1.70
 alpha-vantage>=2.3.0
 
+# Technical Analysis & Financial Metrics
+TA-Lib>=0.4.25
+PyNance>=0.4.0
+
 # Natural Language Processing (for sentiment analysis)
 nltk>=3.7
 textblob>=0.17.0
